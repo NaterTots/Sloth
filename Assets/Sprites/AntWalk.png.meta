@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 850a2aace1ec646418bd413e9aafc3f4
+timeCreated: 1456296076
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AntWalk_0
+    21300002: AntWalk_1
+    21300004: AntWalk_2
+    21300006: AntWalk_3
+    21300008: AntWalk_4
+    21300010: AntWalk_5
+    21300012: AntWalk_6
+    21300014: AntWalk_7
+    21300016: AntWalk_8
+    21300018: AntWalk_9
+    21300020: AntWalk_10
+    21300022: AntWalk_11
+    21300024: AntWalk_12
+    21300026: AntWalk_13
+    21300028: AntWalk_14
+    21300030: AntWalk_15
+    21300032: AntWalk_16
+    21300034: AntWalk_17
+    21300036: AntWalk_18
+    21300038: AntWalk_19
+    21300040: AntWalk_20
+    21300042: AntWalk_21
+    21300044: AntWalk_22
+    21300046: AntWalk_23
+    21300048: AntWalk_24
+    21300050: AntWalk_25
+    21300052: AntWalk_26
+    21300054: AntWalk_27
+    21300056: AntWalk_28
+    21300058: AntWalk_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AntWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4002
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -34.5}
+        - {x: 11.5, y: -31.5}
+        - {x: 4.5, y: -31.5}
+        - {x: 3.5, y: -34.5}
+      - - {x: 1.5, y: 34.5}
+        - {x: -21.5, y: 21.5}
+        - {x: -21.5, y: -18.5}
+        - {x: -16.5, y: -32.5}
+        - {x: 7.5, y: -32.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 21.5, y: -1.5}
+        - {x: 21.5, y: 34.5}
+    - name: AntWalk_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3864
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: -29.70691}
+        - {x: 12.5, y: -26.70691}
+        - {x: 21.5, y: -4.706909}
+        - {x: 21.5, y: 35.29309}
+        - {x: -2.5, y: 35.29309}
+        - {x: -21.5, y: 24.29309}
+        - {x: -21.5, y: -9.706909}
+        - {x: -12.5, y: -33.70691}
+        - {x: 13.5, y: -33.70691}
+        - {x: 13.5, y: -32.70691}
+        - {x: 10.5, y: -29.70691}
+        - {x: 5.5, y: -29.70691}
+    - name: AntWalk_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3726
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 35.08618}
+        - {x: -12.5, y: 32.08618}
+        - {x: -21.5, y: 15.086182}
+        - {x: -21.5, y: -19.913818}
+        - {x: -7.5, y: -33.91382}
+        - {x: 15.5, y: -33.91382}
+        - {x: 21.5, y: -1.9138184}
+        - {x: 21.5, y: 35.08618}
+    - name: AntWalk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3588
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 34.879272}
+        - {x: -3.5, y: 34.879272}
+        - {x: -21.5, y: 25.879272}
+        - {x: -21.5, y: -9.120728}
+        - {x: -4.5, y: -34.120728}
+        - {x: 14.5, y: -34.120728}
+        - {x: 15.5, y: -24.120728}
+        - {x: 15.5, y: 8.879272}
+        - {x: 21.5, y: 19.879272}
+    - name: AntWalk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 34.672363}
+        - {x: -21.5, y: 20.672363}
+        - {x: -21.5, y: -29.327637}
+        - {x: -14.5, y: -34.327637}
+        - {x: 13.5, y: -34.327637}
+        - {x: 21.5, y: -12.327637}
+        - {x: 21.5, y: 34.672363}
+    - name: AntWalk_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3312
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 35.965454}
+        - {x: -21.5, y: 25.965454}
+        - {x: -21.5, y: -25.034546}
+        - {x: -6.5, y: -34.034546}
+        - {x: 20.5, y: -34.034546}
+        - {x: 21.5, y: -20.034546}
+        - {x: 21.5, y: 33.965454}
+        - {x: 19.5, y: 35.965454}
+    - name: AntWalk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3174
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -27.741455}
+        - {x: 18.5, y: -15.741455}
+        - {x: 21.5, y: 4.258545}
+        - {x: 21.5, y: 35.258545}
+        - {x: 2.5, y: 35.258545}
+        - {x: -21.5, y: 21.258545}
+        - {x: -21.5, y: -12.741455}
+        - {x: -3.5, y: -33.741455}
+        - {x: 13.5, y: -33.741455}
+        - {x: 12.5, y: -30.741455}
+        - {x: 9.5, y: -30.741455}
+        - {x: 11.5, y: -30.741455}
+    - name: AntWalk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3036
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 35.051636}
+        - {x: 3.5, y: 35.051636}
+        - {x: -20.5, y: 16.051636}
+        - {x: -21.5, y: 13.051636}
+        - {x: -21.5, y: -2.9483643}
+        - {x: -10.5, y: -29.948364}
+        - {x: 1.5, y: -33.948364}
+        - {x: 16.5, y: -33.948364}
+        - {x: 18.5, y: -22.948364}
+        - {x: 21.5, y: 0.051635742}
+    - name: AntWalk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2898
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 34.84485}
+        - {x: -20.5, y: 19.844849}
+        - {x: -21.5, y: 15.844849}
+        - {x: -21.5, y: -13.155151}
+        - {x: 2.5, y: -34.15515}
+        - {x: 14.5, y: -34.15515}
+        - {x: 21.5, y: -27.155151}
+        - {x: 21.5, y: 34.84485}
+    - name: AntWalk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 34.63794}
+        - {x: -21.5, y: 31.63794}
+        - {x: -21.5, y: -34.36206}
+        - {x: 12.5, y: -34.36206}
+        - {x: 21.5, y: -26.36206}
+        - {x: 21.5, y: 34.63794}
+    - name: AntWalk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2622
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 33.93103}
+        - {x: 19.5, y: 35.93103}
+        - {x: 1.5, y: 35.93103}
+        - {x: -21.5, y: 12.93103}
+        - {x: -21.5, y: -20.06897}
+        - {x: -1.5, y: -34.06897}
+        - {x: 19.5, y: -34.06897}
+        - {x: 20.5, y: -24.06897}
+        - {x: 19.5, y: -13.06897}
+        - {x: 21.5, y: 2.9310303}
+    - name: AntWalk_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2484
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 35.22412}
+        - {x: -21.5, y: 12.224121}
+        - {x: -21.5, y: -6.775879}
+        - {x: -2.5, y: -33.77588}
+        - {x: 14.5, y: -33.77588}
+        - {x: 21.5, y: -31.775879}
+        - {x: 21.5, y: 34.22412}
+        - {x: 19.5, y: 35.22412}
+    - name: AntWalk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2346
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 34.017212}
+        - {x: 16.5, y: 35.017212}
+        - {x: -3.5, y: 35.017212}
+        - {x: -21.5, y: 23.017212}
+        - {x: -21.5, y: -10.982788}
+        - {x: -8.5, y: -33.982788}
+        - {x: 16.5, y: -33.982788}
+        - {x: 21.5, y: -24.982788}
+    - name: AntWalk_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 34.810303}
+        - {x: -21.5, y: 7.8103027}
+        - {x: -21.5, y: -9.189697}
+        - {x: -20.5, y: -15.189697}
+        - {x: 0.5, y: -34.189697}
+        - {x: 14.5, y: -34.189697}
+        - {x: 21.5, y: -29.189697}
+        - {x: 21.5, y: 34.810303}
+    - name: AntWalk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 34.603394}
+        - {x: -21.5, y: 6.6033936}
+        - {x: -21.5, y: -18.396606}
+        - {x: -10.5, y: -34.396606}
+        - {x: 16.5, y: -34.396606}
+        - {x: 21.5, y: -31.396606}
+        - {x: 21.5, y: 34.603394}
+    - name: AntWalk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 35.896545}
+        - {x: -21.5, y: 17.896545}
+        - {x: -21.5, y: -14.103455}
+        - {x: -10.5, y: -34.103455}
+        - {x: 18.5, y: -34.103455}
+        - {x: 21.5, y: -32.103455}
+        - {x: 21.5, y: 35.896545}
+    - name: AntWalk_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1794
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 35.189636}
+        - {x: -20.5, y: 15.189636}
+        - {x: -21.5, y: 11.189636}
+        - {x: -21.5, y: -27.810364}
+        - {x: -9.5, y: -33.810364}
+        - {x: 18.5, y: -33.810364}
+        - {x: 21.5, y: -11.810364}
+        - {x: 21.5, y: 35.189636}
+    - name: AntWalk_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 34.982727}
+        - {x: -21.5, y: 10.982727}
+        - {x: -21.5, y: -3.017273}
+        - {x: -15.5, y: -15.017273}
+        - {x: -11.5, y: -14.017273}
+        - {x: -6.5, y: -24.017273}
+        - {x: 1.5, y: -34.017273}
+        - {x: 11.5, y: -34.017273}
+        - {x: 20.5, y: -31.017273}
+        - {x: 20.5, y: 33.982727}
+        - {x: 17.5, y: 34.982727}
+    - name: AntWalk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 34.775818}
+        - {x: -20.5, y: 9.775818}
+        - {x: -20.5, y: -11.224182}
+        - {x: -19.5, y: -17.224182}
+        - {x: -3.5, y: -34.224182}
+        - {x: 11.5, y: -34.224182}
+        - {x: 19.5, y: -31.224182}
+        - {x: 20.5, y: -30.224182}
+        - {x: 20.5, y: 34.775818}
+    - name: AntWalk_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 34.56897}
+        - {x: -20.5, y: 8.56897}
+        - {x: -20.5, y: -9.43103}
+        - {x: -8.5, y: -31.43103}
+        - {x: -1.5, y: -34.43103}
+        - {x: 14.5, y: -34.43103}
+        - {x: 20.5, y: -28.43103}
+        - {x: 20.5, y: 34.56897}
+    - name: AntWalk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1242
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 12.862061}
+        - {x: 20.5, y: 34.86206}
+        - {x: 16.5, y: 35.86206}
+        - {x: -4.5, y: 35.86206}
+        - {x: -21.5, y: 15.862061}
+        - {x: -21.5, y: -16.13794}
+        - {x: -6.5, y: -34.13794}
+        - {x: 10.5, y: -34.13794}
+        - {x: 16.5, y: -26.13794}
+        - {x: 18.5, y: -18.13794}
+        - {x: 17.5, y: -12.137939}
+    - name: AntWalk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 35.15515}
+        - {x: -21.5, y: 8.155151}
+        - {x: -21.5, y: -3.8448486}
+        - {x: -20.5, y: -13.844849}
+        - {x: -1.5, y: -33.84485}
+        - {x: 12.5, y: -33.84485}
+        - {x: 20.5, y: -26.844849}
+        - {x: 20.5, y: 35.15515}
+    - name: AntWalk_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 34.948273}
+        - {x: -21.5, y: 10.948273}
+        - {x: -21.5, y: -16.051727}
+        - {x: -8.5, y: -28.051727}
+        - {x: 0.5, y: -34.051727}
+        - {x: 15.5, y: -34.051727}
+        - {x: 21.5, y: -15.051727}
+        - {x: 21.5, y: 33.948273}
+        - {x: 18.5, y: 34.948273}
+    - name: AntWalk_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 34.741364}
+        - {x: -21.5, y: 17.741364}
+        - {x: -21.5, y: -16.258636}
+        - {x: -11.5, y: -34.258636}
+        - {x: 19.5, y: -34.258636}
+        - {x: 21.5, y: -23.258636}
+        - {x: 21.5, y: 34.741364}
+    - name: AntWalk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 34.534485}
+        - {x: -21.5, y: 9.534485}
+        - {x: -21.5, y: -24.465515}
+        - {x: -11.5, y: -31.465515}
+        - {x: -5.5, y: -33.465515}
+        - {x: 16.5, y: -33.465515}
+        - {x: 21.5, y: -1.4655151}
+        - {x: 21.5, y: 34.534485}
+    - name: AntWalk_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 35.827576}
+        - {x: 1.5, y: 35.827576}
+        - {x: -21.5, y: 9.827576}
+        - {x: -21.5, y: -11.172424}
+        - {x: -20.5, y: -16.172424}
+        - {x: -1.5, y: -34.172424}
+        - {x: 12.5, y: -34.172424}
+        - {x: 16.5, y: -24.172424}
+        - {x: 21.5, y: 19.827576}
+        - {x: 21.5, y: 31.827576}
+    - name: AntWalk_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 35.12068}
+        - {x: -1.5, y: 35.12068}
+        - {x: -21.5, y: 23.120682}
+        - {x: -21.5, y: -21.879318}
+        - {x: -15.5, y: -33.87932}
+        - {x: 13.5, y: -33.87932}
+        - {x: 16.5, y: -21.879318}
+        - {x: 21.5, y: 17.120682}
+        - {x: 21.5, y: 33.12068}
+    - name: AntWalk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 32.913788}
+        - {x: 14.5, y: 34.913788}
+        - {x: -1.5, y: 34.913788}
+        - {x: -21.5, y: 18.913788}
+        - {x: -21.5, y: -13.086212}
+        - {x: -11.5, y: -33.086212}
+        - {x: 10.5, y: -33.086212}
+        - {x: 12.5, y: -31.086212}
+        - {x: 15.5, y: -25.086212}
+        - {x: 17.5, y: -2.0862122}
+        - {x: 21.5, y: 17.913788}
+    - name: AntWalk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 34.706894}
+        - {x: -21.5, y: 7.706894}
+        - {x: -21.5, y: -22.293106}
+        - {x: -8.5, y: -33.293106}
+        - {x: 17.5, y: -33.293106}
+        - {x: 21.5, y: -14.293106}
+        - {x: 21.5, y: 34.706894}
+    - name: AntWalk_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 87
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 34.5}
+        - {x: 0.5, y: 34.5}
+        - {x: -21.5, y: 7.5}
+        - {x: -21.5, y: -1.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -10.5, y: -30.5}
+        - {x: -6.5, y: -34.5}
+        - {x: 6.5, y: -34.5}
+        - {x: 18.5, y: -27.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 21.5, y: 31.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
